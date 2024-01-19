@@ -17,4 +17,4 @@
 
 ## 下载
 
-[To Live by 余华][.(/活着.pdf)]
+[To Live by 余华][(/活着.pdf)]
